@@ -1,0 +1,8 @@
+# Dependency folder
+node_modules
+
+# Secret API Key file
+.env
+
+# OS/Editor temporary files
+.DS_Store
